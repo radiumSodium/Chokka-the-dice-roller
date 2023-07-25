@@ -11,4 +11,6 @@
 
 
 ### Made by radiumSodium with ❤
-![facebook](https://www.facebook.com/sir4n4/)https://www.facebook.com/sir4n4/)
+<a href="https://www.facebook.com/sir4n4" target="_blank">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/img/brands/facebook-f.svg" alt="Facebook" width="30">
+</a>
