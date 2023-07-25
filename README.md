@@ -11,4 +11,4 @@
 
 
 ### Made by radiumSodium with ❤
-![facebook][(/images/1.jpg](https://www.facebook.com/sir4n4/)https://www.facebook.com/sir4n4/)
+![facebook](https://www.facebook.com/sir4n4/)https://www.facebook.com/sir4n4/)
