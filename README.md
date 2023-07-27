@@ -1,4 +1,4 @@
-# ![one](/images/logo.png) Chokka : The dice roller 
+#  Chokka : The dice roller 
 ## A simple dice roller app.
 
 
