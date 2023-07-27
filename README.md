@@ -1,5 +1,5 @@
 # ![](android/app/src/main/res
-/mipmap-xxxhdpi/launcher_ic) Chokka : The dice roller 
+/mipmap-xxxhdpi/ic_launcher.png) Chokka : The dice roller 
 ## A simple dice roller app.
 
 
